@@ -39,14 +39,7 @@ Here some screenshots of the main dashboard components.
 7. Tabulation and media
 8. Virtual Assistant with Watson Assistant
 
-See screenshots here: https://github.com/lucacrippa88/watson-app-php-dashboard/tree/master/screenshots
-
-## Related tutorials
-
-Please refer to the following repos to gain knowledge on how Watson Assistant is integrated within this dashboard:
-
-1. https://github.com/lucacrippa88/watson-assistant-php
-2. https://github.com/lucacrippa88/watson-assistant-training
+See screenshots here: https://github.com/ulanbek-web/webapp-dashboard/tree/main/screenshots
 
 ## Disclaimer
 
@@ -54,4 +47,4 @@ This is not an official asset. It has been created by me and it's not intended f
 
 ## License
 
-This project uses the Apache License Version 2.0 software license. https://github.com/lucacrippa88/watson-app-php-dashboard/blob/master/LICENSE
+This project uses the Apache License Version 2.0 software license.
